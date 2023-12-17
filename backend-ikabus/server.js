@@ -32,7 +32,7 @@ mongoose
   .then(() => {
     console.log("Connecté à MongoDB...");
     // Démarrer le serveur une fois connecté à la base de données
-    app.listen(https://ikabus-backend-api-sidiki239s-projects.vercel.app/, () => {
+    app.listen(3002, () => {
       console.log("Le serveur est en cours d'exécution sur le port 3002...");
      // console.log("Fait !!!");
     });
